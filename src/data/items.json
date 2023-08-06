@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "FLUTED HEM DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PLEAT PRINTED DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "FLOWY SHIRT DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "DOUBLE LAYER DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BEAD DETAIL DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PLEATED DETAIL DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "PRINTED DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "PRINTED DRESS",
+    "price": "$39",
+    "imgUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/8.jpg"
+  }
+]
