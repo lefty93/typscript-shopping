@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className='navbar bg-secondary shadow-xl mb-3 sticky top-0'>
+    <div className='navbar bg-base-200 shadow mb-3 sticky top-0'>
       <div className='container mx-auto'>
         <div className='me-auto'>
           <NavLink to='/' className='btn btn-ghost normal-case text-xl'>
