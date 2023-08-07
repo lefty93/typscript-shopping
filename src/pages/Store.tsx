@@ -1,18 +1,13 @@
 import storeItems from "../data/items.json";
+import StoreItem from "../components/StoreItem";
 
 const Store = () => {
   return (
     <>
-      <h1>Store</h1>
-      <div className='grid sm:grid-rows-3 sm:grid-cols-3 grid-cols-1'>
+      <h1 className="font-bold text-xl">Store</h1>
+      <div className='grid xl:grid-cols-3 grid-flow-row gap-10 place-content-center'>
         {storeItems.map(item => (
-          <div key={item.id}>
-            <img
-              src={item.imgUrl}
-              alt={item.name}
-              className='w-full h-auto rounded-lg'
-            />
-          </div>
+          <StoreItem {...item} />
         ))}
       </div>
     </>
